@@ -1,0 +1,16 @@
+C:\Users\RSA\Documents\Fall 2019\CIS 3309\Murach C# 2015 Exercises\Lab06_TicTacToe\TicTacToeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\RSA\Documents\Fall 2019\CIS 3309\Murach C# 2015 Exercises\Lab06_TicTacToe\TicTacToeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\RSA\Documents\Fall 2019\CIS 3309\Murach C# 2015 Exercises\Lab06_TicTacToe\TicTacToeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\RSA\Documents\Fall 2019\CIS 3309\Murach C# 2015 Exercises\Lab06_TicTacToe\TicTacToeTest\bin\Debug\TicTacToeTest.dll
+C:\Users\RSA\Documents\Fall 2019\CIS 3309\Murach C# 2015 Exercises\Lab06_TicTacToe\TicTacToeTest\bin\Debug\TicTacToeTest.pdb
+C:\Users\RSA\Documents\Fall 2019\CIS 3309\Murach C# 2015 Exercises\Lab06_TicTacToe\TicTacToeTest\bin\Debug\Lab06_TicTacToe.dll
+C:\Users\RSA\Documents\Fall 2019\CIS 3309\Murach C# 2015 Exercises\Lab06_TicTacToe\TicTacToeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\RSA\Documents\Fall 2019\CIS 3309\Murach C# 2015 Exercises\Lab06_TicTacToe\TicTacToeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\RSA\Documents\Fall 2019\CIS 3309\Murach C# 2015 Exercises\Lab06_TicTacToe\TicTacToeTest\bin\Debug\Lab06_TicTacToe.pdb
+C:\Users\RSA\Documents\Fall 2019\CIS 3309\Murach C# 2015 Exercises\Lab06_TicTacToe\TicTacToeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\RSA\Documents\Fall 2019\CIS 3309\Murach C# 2015 Exercises\Lab06_TicTacToe\TicTacToeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\RSA\Documents\Fall 2019\CIS 3309\Murach C# 2015 Exercises\Lab06_TicTacToe\TicTacToeTest\obj\Debug\TicTacToeTest.csprojAssemblyReference.cache
+C:\Users\RSA\Documents\Fall 2019\CIS 3309\Murach C# 2015 Exercises\Lab06_TicTacToe\TicTacToeTest\obj\Debug\TicTacToeTest.csproj.CoreCompileInputs.cache
+C:\Users\RSA\Documents\Fall 2019\CIS 3309\Murach C# 2015 Exercises\Lab06_TicTacToe\TicTacToeTest\obj\Debug\TicTacToeTest.csproj.CopyComplete
+C:\Users\RSA\Documents\Fall 2019\CIS 3309\Murach C# 2015 Exercises\Lab06_TicTacToe\TicTacToeTest\obj\Debug\TicTacToeTest.dll
+C:\Users\RSA\Documents\Fall 2019\CIS 3309\Murach C# 2015 Exercises\Lab06_TicTacToe\TicTacToeTest\obj\Debug\TicTacToeTest.pdb

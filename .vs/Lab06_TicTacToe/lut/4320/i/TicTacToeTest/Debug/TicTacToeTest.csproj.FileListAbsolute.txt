@@ -1,0 +1,8 @@
+C:\Users\RSA\Documents\Fall 2019\CIS 3309\Murach C# 2015 Exercises\Lab06_TicTacToe\.vs\Lab06_TicTacToe\lut\0\b\TicTacToeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\RSA\Documents\Fall 2019\CIS 3309\Murach C# 2015 Exercises\Lab06_TicTacToe\.vs\Lab06_TicTacToe\lut\0\b\TicTacToeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\RSA\Documents\Fall 2019\CIS 3309\Murach C# 2015 Exercises\Lab06_TicTacToe\.vs\Lab06_TicTacToe\lut\0\b\TicTacToeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\RSA\Documents\Fall 2019\CIS 3309\Murach C# 2015 Exercises\Lab06_TicTacToe\.vs\Lab06_TicTacToe\lut\0\b\TicTacToeTest\bin\Debug\TicTacToeTest.dll
+C:\Users\RSA\Documents\Fall 2019\CIS 3309\Murach C# 2015 Exercises\Lab06_TicTacToe\.vs\Lab06_TicTacToe\lut\0\i\TicTacToeTest\Debug\TicTacToeTest.csproj.CoreCompileInputs.cache
+C:\Users\RSA\Documents\Fall 2019\CIS 3309\Murach C# 2015 Exercises\Lab06_TicTacToe\.vs\Lab06_TicTacToe\lut\0\i\TicTacToeTest\Debug\TicTacToeTest.csproj.CopyComplete
+C:\Users\RSA\Documents\Fall 2019\CIS 3309\Murach C# 2015 Exercises\Lab06_TicTacToe\.vs\Lab06_TicTacToe\lut\0\i\TicTacToeTest\Debug\TicTacToeTest.dll
+C:\Users\RSA\Documents\Fall 2019\CIS 3309\Murach C# 2015 Exercises\Lab06_TicTacToe\.vs\Lab06_TicTacToe\lut\0\i\TicTacToeTest\Debug\TicTacToeTest.csprojAssemblyReference.cache

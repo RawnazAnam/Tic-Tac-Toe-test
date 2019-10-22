@@ -1,0 +1,6 @@
+C:\Users\RSA\Documents\Fall 2019\CIS 3309\Murach C# 2015 Exercises\Lab06_TicTacToe\Lab06_TicTacToe\bin\Debug\Lab06_TicTacToe.dll
+C:\Users\RSA\Documents\Fall 2019\CIS 3309\Murach C# 2015 Exercises\Lab06_TicTacToe\Lab06_TicTacToe\bin\Debug\Lab06_TicTacToe.pdb
+C:\Users\RSA\Documents\Fall 2019\CIS 3309\Murach C# 2015 Exercises\Lab06_TicTacToe\Lab06_TicTacToe\obj\Debug\Lab06_TicTacToe.csprojAssemblyReference.cache
+C:\Users\RSA\Documents\Fall 2019\CIS 3309\Murach C# 2015 Exercises\Lab06_TicTacToe\Lab06_TicTacToe\obj\Debug\Lab06_TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\RSA\Documents\Fall 2019\CIS 3309\Murach C# 2015 Exercises\Lab06_TicTacToe\Lab06_TicTacToe\obj\Debug\Lab06_TicTacToe.dll
+C:\Users\RSA\Documents\Fall 2019\CIS 3309\Murach C# 2015 Exercises\Lab06_TicTacToe\Lab06_TicTacToe\obj\Debug\Lab06_TicTacToe.pdb

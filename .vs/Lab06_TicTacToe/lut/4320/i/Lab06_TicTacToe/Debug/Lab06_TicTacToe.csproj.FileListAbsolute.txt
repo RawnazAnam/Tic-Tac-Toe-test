@@ -1,0 +1,4 @@
+C:\Users\RSA\Documents\Fall 2019\CIS 3309\Murach C# 2015 Exercises\Lab06_TicTacToe\.vs\Lab06_TicTacToe\lut\0\b\Lab06_TicTacToe\bin\Debug\Lab06_TicTacToe.dll
+C:\Users\RSA\Documents\Fall 2019\CIS 3309\Murach C# 2015 Exercises\Lab06_TicTacToe\.vs\Lab06_TicTacToe\lut\0\i\Lab06_TicTacToe\Debug\Lab06_TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\RSA\Documents\Fall 2019\CIS 3309\Murach C# 2015 Exercises\Lab06_TicTacToe\.vs\Lab06_TicTacToe\lut\0\i\Lab06_TicTacToe\Debug\Lab06_TicTacToe.csproj.CopyComplete
+C:\Users\RSA\Documents\Fall 2019\CIS 3309\Murach C# 2015 Exercises\Lab06_TicTacToe\.vs\Lab06_TicTacToe\lut\0\i\Lab06_TicTacToe\Debug\Lab06_TicTacToe.dll
